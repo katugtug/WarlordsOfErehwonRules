@@ -137,7 +137,7 @@ Strategic Genius Leader
 5
 Unit gains MoD 2.
 
-Death and Dismemberment
+## Death and Dismemberment
 Any time a veteran’s unit is scattered or the veteran is “killed” by taking wounds, you must roll on the Death and Dismemberment table. Be sure to check for all the modifiers which may apply. You don’t have to roll if the unit successfully routed off of your friendly board edge.
 
 Modifier
