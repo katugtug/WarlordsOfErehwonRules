@@ -19,80 +19,45 @@ Level | Total Experience Points (short campaign) | Total Experience Points (long
 4 | 10 | 20
 5 | 15 | 30
 
-
-Earning Experience Points
+## Earning Experience Points
 A unit earns experience points throughout the game based on their performance. At the end of the battle, a unit receives 0 XP if it was scattered. It receives half (rounding down) if it is routing at the end of the game, or routed off the edge of the table.
 
-Situation
-XP Gained
-Unit won a combat round
-1
-… and caused the enemy to break.
-+1
-… against a superior opponent. (Higher Res, Higher Str, Higher SV or Number of attacks)
-+1
+Situation | XP Gained 
+--- | ---
+Unit won a combat round | 1
+… and caused the enemy to break. | +1
+… against a superior opponent. (Higher Res, Higher Str, Higher SV or Number of attacks) | +1
 
-Picking Advancements
+## Picking Advancements
 Each time a veteran acquires a new level, they can pick (or roll for) an advancement. I suggest picking an advancement that makes sense given the performance of the unit in the game! If nothing jumps out to you, give it a roll instead. 
 
 A character can have 5 total advancements, 1 of each level. Some advancements scale with the advancement level used to buy them. This is represented by Advancement Level (AL) in the chart e.g. STR +.
 
-You can upgrade a previously bought Advancement with a higher AL version and rebuy the lower enhancement. E.g. The veteran has Level 1: STR + AL and Level 2: Wound + AL.  When the veteran levels up to 3, you can choose to purchase Level 3: STR + AL, granting +3 STR, and then reuse that Level 1 slot for any valid level 1 advac
-Leader abilities (e.g. Berserker Leader) make the unit the veteran leads have that trait, i.e. the unit gains Berserk. Some of these are a little different. E.g. Tough Leader gives the unit a tough rating, not every individual in the unit.
-Advancements
-Personal Advancements
+You can upgrade a previously bought Advancement with a higher AL version and rebuy the lower enhancement. E.g. The veteran has Level 1: STR + AL and Level 2: Wound + AL.  When the veteran levels up to 3, you can choose to purchase Level 3: STR + AL, granting +3 STR, and then reuse that Level 1 slot for any valid level 1 advancement. 
 
-Advancement
-Required Level
-Notes
-STR +
-1-5
-Gain +1 / advancement level
-CO + 
-1-5
-Gain +1 / advancement level
-INIT + 
-1-5
-Gain +1 / advancement
-ACC + 
-1-5
-Gain +1 / advancement level
-Tough + 
-1-5
-Gain Tough AL +1 (all leaders start with Tough 1)
-Command
-1-5
-Gain 5” of command radius for every AL.
-Hero
-1-5
-Gain 5” of init radius for every AL.
-Follow
-1-5
-Gain 5” of follow radius for every AL.
-Wound +
-2-5
-Gain Wound (AL-1).
-Magic Level (AL-2)
-3-5
-Become a wizard! Get 1 spell to start.
-Extra Spell
-1-5
-Gain 1 Spell / AL. Roll or pick
-Mechanical Genius
-1-5
-Gain 5” of mechanical bonus / AL.
-Divine Intervention
-1-5
-Gain 5” of divine intervention radius for every AL. I.e. standard Divine Intervention is AL4.
-Ranged Attack
-1-5
-Ranged Attack 1 + 1 / AL.
-Hand to Hand Attack
-1-5
-Hand to Hand Attack 1 + 1 / AL.
-Challenge (solo)
-3
-Solo version, only the leader fights vs the entire unit, like a normal hero. No scaling, its real good already.
+**Leader** abilities (e.g. Berserker Leader) make the unit the veteran leads have that trait, i.e. the unit gains Berserk. Some of these are a little different. E.g. Tough Leader gives the unit a tough rating, not every individual in the unit.
+
+##Advancements
+
+###Personal Advancements
+
+Advancement | Required Level | Notes
+STR + | 1-5 | Gain +1 / advancement level
+CO +  | 1-5 | Gain +1 / advancement level
+INIT + | 1-5| Gain +1 / advancement
+ACC + | 1-5| Gain +1 / advancement level
+Tough + | 1-5| Gain Tough AL +1 (all leaders start with Tough 1)
+Command | 2 | Gain Command
+Hero | 1 | Gain Init Radius Hero ability
+Follow| 2 | Gain Follow
+Wound + | 2-5 | Gain Wound (AL-1).
+Magic Level (AL-2) | 3-5 | Become a wizard! Get 1 spell to start.
+Extra Spell | 1-5 | Gain 1 Spell / AL. Roll or pick
+Mechanical Genius | 1-5 | Gain 5” of mechanical bonus / AL.
+Divine Intervention | 4 | Gain Divine Intervention
+Ranged Attack | 1-5 | Ranged Attack 1 + 1 / AL.
+Hand to Hand Attack | 1-5 | Hand to Hand Attack 1 + 1 / AL.
+Challenge (solo) | 3 | Solo version, only the leader fights vs the entire unit, like a normal hero. No scaling, its real good already.
 
 Leadership Advancements
 These apply to the entire unit that the veteran leads.
