@@ -11,32 +11,14 @@ The goal of this document is good casual campaign play rules. Not interested in 
 ## Creation and Advancements
 A veteran is created at the end of a campaign game, where a unit has accumulated one or more experience points. That unit’s leader becomes a Veteran and a named character! Give them a name! Keep track of that character’s experience from now on. Each experience point brings them closer to leveling up again. 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-Level
-Total Experience Points (short campaign)
-Total Experience Points
-(long campaign)
-1
-1
-1
-2
-3
-6
-3
-6
-12
-4
-10
-20
-5
-15
-30
-
+Level        | Total Experience Points (short campaign) | Total Experience Points (long campaign)  
+------------- |-------------- | -----:
+1 | 1 | 1
+2 | 3 | 6
+3 | 6 | 12
+4 | 10 | 20
+5 | 15 | 30
+W
 Earning Experience Points
 A unit earns experience points throughout the game based on their performance. At the end of the battle, a unit receives 0 XP if it was scattered. It receives half (rounding down) if it is routing at the end of the game, or routed off the edge of the table.
 
