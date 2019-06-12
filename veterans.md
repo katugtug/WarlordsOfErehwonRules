@@ -1,6 +1,6 @@
 ---
 title: Veterans Rules
-layout: post
+layout: page
 ---
 
 #Veterans
