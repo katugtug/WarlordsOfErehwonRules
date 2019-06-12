@@ -37,9 +37,9 @@ You can upgrade a previously bought Advancement with a higher AL version and reb
 
 **Leader** abilities (e.g. Berserker Leader) make the unit the veteran leads have that trait, i.e. the unit gains Berserk. Some of these are a little different. E.g. Tough Leader gives the unit a tough rating, not every individual in the unit.
 
-##Advancements
+## Advancements
 
-###Personal Advancements
+### Personal Advancements
 
 Advancement | Required Level | Notes
 STR + | 1-5 | Gain +1 / advancement level
@@ -59,118 +59,54 @@ Ranged Attack | 1-5 | Ranged Attack 1 + 1 / AL.
 Hand to Hand Attack | 1-5 | Hand to Hand Attack 1 + 1 / AL.
 Challenge (solo) | 3 | Solo version, only the leader fights vs the entire unit, like a normal hero. No scaling, its real good already.
 
-Leadership Advancements
+### Leadership Advancements
 These apply to the entire unit that the veteran leads.
 
-Advancement
-Level
-Notes
-Strong Leader
-3
-Unit gets STR + 1
-Accurate Leader
-3
-Unit gets ACC + 1
-Tough Leader
-1-5
-Unit gets a number of Tough reroll equal to AL.
-Fast Leader
-2, 4
-Unit gets Fast 5 + AL/2
-Rogue Leader
-1-5
-Unit gains Venomous 1x / AL
-Haughty Leader
-1
-Unit gains Haughty Disdain
-Woodsman Leader
-1
-Unit gains Woodsman
-Tomb Raider Leader
-1
-Unit gains Woodsman (but for RUINS) Ruinsman!
-Rapid Sprinting Leader
-3
-Unit gains Rapid Sprint
-Ferociously Charging Leader
-2
-Unit gains Ferocious Charge
-
-
-Savage Leader
-1
-Unit gains Savage
-Phalanx Leader
-1
-Unit gains Shieldwall
-Stubborn Leader
-1
-Unit gains Stubborn
-Vengeful Leader
-2
-Unit gains Vengeful.
-Zealous Leader
-3
-Unit gains Zealous.
-Dreaded Leader
-3
-Unit causes dread.
-Frenzied Charging Leader
-3
-Unit gains +1 attack on charge.
-Berserker Leader
-4
-Unit gains Berserk.
-Crazed Psychotic Leader
-4
-Unit gains Crazed Psychotic
-Irrestistable Charging Leader
-3
-Unit gains irresistible charge.
-Terrifying Leader
-5
-Unit causes Terror.
-Great Champion Leader
-5
-Unit gains the Challenge rule. They all fight in the challenge.
-Strategic Genius Leader
-5
-Unit gains MoD 2.
+Advancement | Level | Notes
+--- | --- | ---
+Strong Leader | 3 | Unit gets STR + 1
+Accurate Leader | 3 | Unit gets ACC + 1
+Tough Leader | 1-5 | Unit gets a number of Tough reroll equal to AL.
+Fast Leader | 2, 4 | Unit gets Fast 5 + AL/2
+Rogue Leader | 1-5 | Unit gains Venomous 1x / AL
+Haughty Leader | 1 | Unit gains Haughty Disdain
+Woodsman Leader | 1 | Unit gains Woodsman
+Tomb Raider Leader | 1 | Unit gains Woodsman (but for RUINS) Ruinsman!
+Rapid Sprinting Leader | 3 | Unit gains Rapid Sprint
+Ferociously Charging Leader | 2 | Unit gains Ferocious Charge
+Savage Leader | 1 | Unit gains Savage
+Phalanx Leader | 1 | Unit gains Shieldwall
+Stubborn Leader | 1 | Unit gains Stubborn
+Vengeful Leader | 2 | Unit gains Vengeful.
+Zealous Leader | 3 | Unit gains Zealous.
+Dreaded Leader | 3 | Unit causes dread.
+Frenzied Charging Leader | 3 | Unit gains +1 attack on charge.
+Berserker Leader | 4 | Unit gains Berserk.
+Crazed Psychotic Leader | 4 | Unit gains Crazed Psychotic
+Irresistible Charging Leader | 3 | Unit gains irresistible charge.
+Terrifying Leader | 5 | Unit causes Terror.
+Great Champion Leader | 5 | Unit gains the Challenge rule. They all fight in the challenge.
+Strategic Genius Leader | 5 | Unit gains MoD 2.
 
 ## Death and Dismemberment
-Any time a veteran’s unit is scattered or the veteran is “killed” by taking wounds, you must roll on the Death and Dismemberment table. Be sure to check for all the modifiers which may apply. You don’t have to roll if the unit successfully routed off of your friendly board edge.
+Any time a veteran’s unit is **scattered** (e.g. the unit is removed for having pins equal or greater than their base CO) or the veteran is **“killed”** by taking wounds, you must roll on the Death and Dismemberment table. Be sure to check for all the modifiers which may apply. You don’t have to roll if the unit successfully routed off of your friendly board edge.
 
-Modifier
-Situation
--1
-Victory! If the veteran’s side won the battle, he is more likely to receive post battle care.
--1 / level
-Level: Each experience level makes a veteran less likely to be seriously injured.
-+2
-“Slain”: A veteran who fails his Res roll and has used all of his wounds is removed as a casualty. 
-+2
-Slain by SV4+: Dragons, cannons, et. al. have a way of gruesomely ending a life. Stacks with “slain”. 
+Modifier | Situation
+--- | ---
+-1 | Victory! If the veteran’s side won the battle, he is more likely to receive post battle care.
+-1 / level | Level: Each experience level makes a veteran less likely to be seriously injured.
++2 | “Slain”: A veteran who fails his Res roll and has used all of his wounds is removed as a casualty.  
++2 | Slain by SV4+: Dragons, cannons, et. al. have a way of gruesomely ending a life. Stacks with “slain”. 
 
-Roll
-Injury effect
-1 or less
-Fortuitous day! No effect.
-2
-Terrible scar! Roll again. On an even, its a inspiring, grizzled sort of scar (+1 CO), on an odd its a hideous, deforming sort of scar (-1 CO).
-3
-Stupored. -1 INIT.
-4
-Lost an eye! -1 ACC (don’t roll this twice)
-5
-Hamstrung! - Always heavily laden when on foot. The veteran cannot take any equipment that would cause them to become heavily laden, e.g. heavy armor and bloomin’ big weapons.
-6
-Dismembered Arm - Can only use 1H weapons. -1 STR.
-7
-Taken hostage! The veteran has been taken prisoner so may be returned, use campaign to resolve this. They are, for now, gone.
-8
-Crawling to safety with a knife in the back. Make a final Res check with no armor at SV0 or die.
-9
-Mortally wounded!. Make a final Res check with no armor at SV3 or die.
-10+
-Annihilated. This veteran has died.
-
+Roll | Injury effect
+--- | ---
+1 or less | Fortuitous day! No effect.
+2 | Terrible scar! Roll again. On an even, its a inspiring, grizzled sort of scar (+1 CO), on an odd its a hideous, deforming sort of scar (-1 CO).
+3 | Stupored. -1 INIT.
+4 | Lost an eye! -1 ACC (don’t roll this twice)
+5 | Hamstrung! - Always heavily laden when on foot. The veteran cannot take any equipment that would cause them to become heavily laden, e.g. heavy armor and bloomin’ big weapons.
+6 | Dismembered Arm - Can only use 1H weapons. -1 STR.
+7 | Taken hostage! The veteran has been taken prisoner so may be returned, use campaign to resolve this. They are, for now, gone.
+8 | Crawling to safety with a knife in the back. Make a final Res check with no armor at SV0 or die.
+9 | Mortally wounded!. Make a final Res check with no armor at SV3 or die.
+10+ | Annihilated. This veteran has died.
