@@ -3,14 +3,19 @@ title: Veterans Rules
 layout: default
 permalink: /veterans/
 ---
-
-#Veterans
-
+# Veterans
 Veterans are named unit leaders. By gaining experience in campaign play, normal leaders can become veterans and veterans can improve and gain traits and stat increases that make them unique. Vice versa, they can suffer injuries when defeated and even die forever. They may acquire skills and equipment to help them in their role or even provide bonuses to their comrades through excellent leadership (or perhaps fear!)
 
 The goal of this document is good casual campaign play rules. Not interested in exact balance or points, but in a loose framework for representing custom named heroes on the battlefield, leveling them up and getting them killed.
-Creation and Advancements
+
+## Creation and Advancements
 A veteran is created at the end of a campaign game, where a unit has accumulated one or more experience points. That unit’s leader becomes a Veteran and a named character! Give them a name! Keep track of that character’s experience from now on. Each experience point brings them closer to leveling up again. 
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 Level
 Total Experience Points (short campaign)
