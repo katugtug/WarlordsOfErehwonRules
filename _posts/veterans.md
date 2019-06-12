@@ -1,4 +1,3 @@
-
 ---
 title: Veterans Rules
 layout: post
