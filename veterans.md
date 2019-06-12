@@ -18,7 +18,8 @@ Level        | Total Experience Points (short campaign) | Total Experience Point
 3 | 6 | 12
 4 | 10 | 20
 5 | 15 | 30
-W
+
+
 Earning Experience Points
 A unit earns experience points throughout the game based on their performance. At the end of the battle, a unit receives 0 XP if it was scattered. It receives half (rounding down) if it is routing at the end of the game, or routed off the edge of the table.
 
