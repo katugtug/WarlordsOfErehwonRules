@@ -11,8 +11,8 @@ The goal of this document is good casual campaign play rules. Not interested in 
 ## Creation and Advancements
 A veteran is created at the end of a campaign game, where a unit has accumulated one or more experience points. That unit’s leader becomes a Veteran and a named character! Give them a name! Keep track of that character’s experience from now on. Each experience point brings them closer to leveling up again. 
 
-Level        | Total Experience Points (short campaign) | Total Experience Points (long campaign)  
-------------- |-------------- | -----:
+Level | Total Experience Points (short campaign) | Total Experience Points (long campaign)  
+--- | --- | ---
 1 | 1 | 1
 2 | 3 | 6
 3 | 6 | 12
