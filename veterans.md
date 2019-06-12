@@ -1,4 +1,9 @@
-Veterans
+---
+title: Veterans Rules
+layout: post
+---
+
+#Veterans
 
 Veterans are named unit leaders. By gaining experience in campaign play, normal leaders can become veterans and veterans can improve and gain traits and stat increases that make them unique. Vice versa, they can suffer injuries when defeated and even die forever. They may acquire skills and equipment to help them in their role or even provide bonuses to their comrades through excellent leadership (or perhaps fear!)
 
