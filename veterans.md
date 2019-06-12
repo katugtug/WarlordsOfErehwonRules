@@ -1,6 +1,7 @@
 ---
 title: Veterans Rules
 layout: default
+permalink: veterans
 ---
 
 #Veterans
