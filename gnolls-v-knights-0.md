@@ -1,5 +1,8 @@
 ---
+title: Gnolls Vs Knights Background
+layout: default
 ---
+
 # Campaign Background
 ## Riversworth
 
