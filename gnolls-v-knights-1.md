@@ -1,6 +1,7 @@
 ---
 title: Gnolls Vs Knights 1
 layout: default
+permalink: /gnolls-v-knights-1/
 ---
 
 # Part 1: KICKING THE HORNET’S NEST  

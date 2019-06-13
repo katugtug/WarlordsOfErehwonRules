@@ -1,6 +1,7 @@
 ---
 title: Gnolls Vs Knights Background
 layout: default
+permalink: /gnolls-v-knights-0/
 ---
 
 # Campaign Background
