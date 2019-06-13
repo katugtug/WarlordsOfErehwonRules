@@ -1,3 +1,5 @@
+---
+---
 # Part 1: KICKING THE HORNET’S NEST  
 [Background](/woe/gnolls-v-knights-0/)
 
