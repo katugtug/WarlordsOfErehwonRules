@@ -75,8 +75,8 @@ The game goes **6 turns**. If the cart is within 5" of a gnoll warren entrance, 
 
 ## Post Battle
 **Gnoll Victory** 
-The gnoll warrens are preserved and more are being dug all the time. The need for food is great. The gnolls move west in force, right towards Riversmeet. Riversmeet prepares to defend itself and sends a messenger to Everston with news.
+The gnoll warrens are preserved and more are being dug all the time. The need for food is great. The gnolls move west in force, right towards Riversworth. Riversworth prepares to defend itself and sends a messenger to Everston with news.
 
 **Knight Victory** 
-This batch of gnoll warrens has been destroyed but there are others. Gnolls seek to build their strength through reaving and raiding rather than all out assault. Riversmeet, sure that their vigilance has won the day, celebrates and hails its brave adventurers as heroes. 
+This batch of gnoll warrens has been destroyed but there are others. Gnolls seek to build their strength through reaving and raiding rather than all out assault. Riversworth, sure that their vigilance has won the day, celebrates and hails its brave adventurers as heroes. 
 
