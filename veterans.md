@@ -112,10 +112,9 @@ Roll | Injury effect
 10+ | Annihilated. This veteran has died.
 
 ## Examples
-Miguel Arellio XP 7 (long campaign)
-- Hero of the First Battle of the Gnollwood
-- Led a valiant assault against powerful gnolls.
-  
-Level 1: +1 H2H Attack
-Level 2: Ferociously Charging Leader
+### Miguel Arellio (XP 7) (long campaign)  
+- Hero of the First Battle of the Gnollwood  
+- Led a valiant assault against powerful gnolls.  
+1. Level 1: +1 H2H Attack  
+2. Level 2: Ferociously Charging Leader  
 
