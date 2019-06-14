@@ -110,3 +110,12 @@ Roll | Injury effect
 8 | Crawling to safety with a knife in the back. Make a final Res check with no armor at SV0 or die.
 9 | Mortally wounded!. Make a final Res check with no armor at SV3 or die.
 10+ | Annihilated. This veteran has died.
+
+## Examples
+Miguel Arellio XP 7 (long campaign)
+- Hero of the First Battle of the Gnollwood
+- Led a valiant assault against powerful gnolls.
+  
+Level 1: +1 H2H Attack
+Level 2: Ferociously Charging Leader
+
