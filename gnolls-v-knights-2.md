@@ -1,6 +1,7 @@
 ---
-title: "Knights V Gnolls Part 2
-permalink: "/knights-v-gnolls-2/
+title: Gnolls Vs Knights 2 NIGHT RAID
+layout: default
+permalink: /gnolls-v-knights-2/
 ---
 # Knights Vs Gnolls: Part 2: NIGHT RAID
 ## Goal 
