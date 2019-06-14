@@ -23,7 +23,21 @@ Must bring matriarch and surviving guards as 2 units.
 
 **Patrol**: Number the houses and barn 1 through 6 barn being 6 knights make advance orders towards a random house until they view a gnoll unit
 
-**Raise the alarm**: If a knight unit survives a combat engagement against a gnoll unit they raise the alarm causing the bar to empty its contents containing the surviving members of the raid and 1 more full unit of peasants. if the barn is caught on fire this happens automatically. The knight units deployed from the bar are zealous as they have been drinking heavily and in high spirits.
+**Raise the alarm**: If a knight unit survives a combat engagement against a gnoll unit they raise the alarm causing the bar to empty its contents containing the surviving members of the raid and 1 more full unit of peasants. if the barn is caught on fire this happens automatically. 
+
+The knight units deployed from the bar are zealous as they have been drinking heavily and in high spirits.
+
+> Surviving Knights from Part 1:
+> 5 crossbowmen
+> 2 + 3 archers
+> 5 peasants (now led by Miguel Arellio)
+> 2 foot retainers (routed)
+
+> Surviving Gnolls from Part 1
+> 2 guards + 2 guards
+> 10 warriors
+> Matriach (wounded)
+> 5 trackers
 
 Houses are **raided** if a gnoll unit start a turn in contact with a house, if they are
 
