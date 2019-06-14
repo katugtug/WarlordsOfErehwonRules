@@ -27,17 +27,17 @@ Must bring matriarch and surviving guards as 2 units.
 
 The knight units deployed from the bar are zealous as they have been drinking heavily and in high spirits.
 
-> Surviving Knights from Part 1:
-> 5 crossbowmen
-> 2 + 3 archers
-> 5 peasants (now led by Miguel Arellio)
-> 2 foot retainers (routed)
+> Surviving Knights from Part 1:  
+> 5 crossbowmen  
+> 2 + 3 archers  
+> 5 peasants (now led by Miguel Arellio)  
+> 2 foot retainers (routed)  
 
-> Surviving Gnolls from Part 1
-> 2 guards + 2 guards
-> 10 warriors
-> Matriach (wounded)
-> 5 trackers
+> Surviving Gnolls from Part 1  
+> 2 guards + 2 guards  
+> 10 warriors  
+> Matriach (wounded)  
+> 5 trackers  
 
 Houses are **raided** if a gnoll unit start a turn in contact with a house, if they are
 
