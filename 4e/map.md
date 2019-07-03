@@ -8,12 +8,14 @@ permalink: /4e/map/
 
 The year 380 was marked by the Red Night, a point where the Far Gate was sundered and the Far Realm aka the Astral Sea, began to bleed into our world. It was marked by a loud telepathic echo that all living creatures heard as a mighty rumble for several minutes. Afterwards, the night sky turned crimson for some time. 
 
-    "And as I lay down to rest that night, there came a sudden jolt to the senses, a maddening terrible roar in my mind. I've never felt anything like it since. In distress, I stumbled from my bed only to find my housemaid similarly distraught. As soon as it had come on, it was over in the space of a minute or two, leaving an echo in our minds and an terrible trepidation that the sensation might reoccur. All of this was put aside of course upon reaching the window of my bedchamber. For there, the night sky was changed.  It's normal black dispelled by a brilliant crimson. It bathed the city was bathed in the ominous hue for around an hour, dissipating completely before dawn. This was to come known as the Red Night."
-    -- Archibald Crane, ink maker.
+>    "And as I lay down to rest that night, there came a sudden jolt to the senses, a maddening terrible roar in my mind. I've never felt anything like it since. In distress, I stumbled from my bed only to find my housemaid similarly distraught. As soon as it had come on, it was over in the space of a minute or two, leaving an echo in our minds and an terrible trepidation that the sensation might reoccur. All of this was put aside of course upon reaching the window of my bedchamber. For there, the night sky was changed.  It's normal black dispelled by a brilliant crimson. It bathed the city was bathed in the ominous hue for around an hour, dissipating completely before dawn. This was to come known as the Red Night."
+>    -- Archibald Crane, ink maker.
 
 Since this time, psionic powers began to manifest.
 
 # The East
+
+Play in the east if you want to wage an existential war campaign against an undeniably bad enemy.
 
 ## Arkosian Mountains
 
@@ -33,7 +35,6 @@ Since this time, psionic powers began to manifest.
 * Preoccupied with the rat wars, they have few resources to devote to the scourge at their door.
 
 ### Redannian Knights
-
 * The remnants of the Redannian Kingdom are a cultural group, now divided by civil war for centuries and divided into fiefdoms vying for power. They have lived here for a long time, originally migrating from the central continent a thousand years ago and bringing their mighty steeds with them.
 * Redannian humans are marked by their dark skin, common in the central continent.  
 * Redannians are cavalry masters, heavy horse without equal. They cover their horses in impenetrable scale mail and are masters of the lance and spear.
@@ -71,7 +72,9 @@ Since this time, psionic powers began to manifest.
 
 * The central dwarven kingdom is the largest in the world, its capital city known as **Greatforge**, is a wonder of dwarven engineering. However, the dwarves long for another home, now lost to dark elves, where they came from originally. It's been 3,000 years since the last dwarf set foot in **Deephearth**, but the dwarven memory is long and every dwarf dreams still of reclaiming that great hall below.
 
-* In the year 380 the Shardminds awoke. They are a crystalline people of keen intellect, imbued with natural psionic power from the sundering of the Far Gate and the opening of the Astral Sea (see a astrologer). 
+* Dwarves are ruled by one great king and one ruling clan, the Clan of Grudak, and King Krain IV. Krain of Grudak is a vain ruler, now eaten up by grief and hatred. He spends great amounts of time alone and his council of diplomats and councilors attend to the kingdom. He is without heir and the great 
+
+* In the year 380 the Shardminds awoke. They are a crystalline people of keen intellect, imbued with natural psionic power from the sundering of the Far Gate and the opening of the Astral Sea (see a astrologer). They are entirely alien beings with a close link to the astral sea. They emerged from dwarven gem holds
 
 * 
 
