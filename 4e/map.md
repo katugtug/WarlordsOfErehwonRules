@@ -2,63 +2,78 @@
 title: Map objects, points of interest
 permalink: /4e/map/
 ---
+# Calendar
 
-# Calendar Thoughts
+## The Red Night
 
-Twin sun? Seems fun.
+The year 380 was marked by the Red Night, a point where the Far Gate was sundered and the Far Realm aka the Astral Sea, began to bleed into our world. It was marked by a loud telepathic echo that all living creatures heard as a mighty rumble for several minutes. Afterwards, the night sky turned crimson for some time. 
 
-# County of Dirk
+    "And as I lay down to rest that night, there came a sudden jolt to the senses, a maddening terrible roar in my mind. I've never felt anything like it since. In distress, I stumbled from my bed only to find my housemaid similarly distraught. As soon as it had come on, it was over in the space of a minute or two, leaving an echo in our minds and an terrible trepidation that the sensation might reoccur. All of this was put aside of course upon reaching the window of my bedchamber. For there, the night sky was changed.  It's normal black dispelled by a brilliant crimson. It bathed the city was bathed in the ominous hue for around an hour, dissipating completely before dawn. This was to come known as the Red Night."
+    -- Archibald Crane, ink maker.
 
-The county Dirk is a large rural province in southern Aradonia. It's borders stretch all the way to the Fangs, but this area is thinly inhabited, it's village small and its farmland rocky. It has no real exports, no gold, no silver and no silks. Those who live here have a hard life, w. The **Count of Dirk, Count Reginald Royce** makes his home in 
+Since this time, psionic powers began to manifest.
 
-# Points of Interest
+# The East
 
-## The Halls of Grunduk
-Hundreds of years ago, dwarves carved deep into the mountain here, mining deep into the earth and amassing great treasures. One of their many treasures drew the attention of a great red dragon, who has taken up residence in the Halls of Grunduk, making them his own. The dwarves were defeated and the Halls of Grunduk lay silent now, except the for the great dragon. Many adventurers make their way here (all of that treasure!), but none return; the Dragon does not suffer visitors.
+## Arkosian Mountains
 
-## The Aberrant Fog
-Decades ago, a great plumes of smoke started to spew from great fissures in the ground. The gas is breathable though barely, but it causes weirdness and chaos. Mutants and aberations now pollute a wind carried stretch from the fissure. It's continued for 30 years, no one knows why and those who seek it out never return.
+* Former home of the Red Dragonborn and the last remnants of the Arkosian empire. The rise of the Scourge has pushed them west.   
+  * City: Skyhall
 
-# NPCS of Note
+* The scourge is a merging of the Shadowfell, a dimensional rift emanating from the Crimson Court (political seat of power) in Skyhall. A wizard named **Daeth of  Xiilius**, after much research, seeking to locate the ancient arms of the Arkosian Emperors, opened a rift into the Plane of Shadows. In that moment, a powerful being slipped through. His shadow magic corrupted all around him. Implacable, he remains there and the rift widens. More native creatures come through, seemingly sustained by the rift and the being. It's unclear what it wants, but the lands are dangerous to all life and its influence is spreading. 
 
-## The Archmage Chronos Alune
+* A monastery of high in the mountains, peopled by refuges from the astral sea, mainly Githzerai are under siege. They fight stalwartly, but their fate is inevitable. 
 
-A powerful wizard who has guided those goodly sorts who seek his council for generations. He knowledge is great and his intelligence network even greater. Always an ally of the Galarians and their king, his council is seen an infallible. His purposes are his own, secret and weird. He sends adventurers to do things like paint sigils on ancient runes. Can he guide the Galarians through recent troubles?
+## Central mountains (the Grundi Mountains, Emerald Mountains) 
 
-## Galarian King Bederain II
+### Dwarves
+* Dwarves of the central mountains (the Grundi Mountains, Emerald Mountains) have lived here for centuries and dug deep and seek to fight the Scourge but are unprepared to do so.   
+* Expert craftsmen and fine warriors, their ancient runes protect their halls.  
+* They are fighting a war in their lower holds against a vicious rat race they call the skaven. Disease whittles their ranks and they've lost many.
+* Preoccupied with the rat wars, they have few resources to devote to the scourge at their door.
 
-The noble king of Galaria, his kingdom rifted by civil war and threats from all sides, rotted from the inside by buearucrats and merchant lords, attacked from the outside by great greenskin hordes, beset by terrible plagues and famine, Galaria staggers from its former greatness.
+### Redannian Knights
 
-Bederain is better than his father, Bederain I, who allowed the kingdom to rot to civil war. Bederain II 43 years old, his family killed by plague. He will give missions to stop threats to the throne; there are many threats of all sorts.
+* The remnants of the Redannian Kingdom are a cultural group, now divided by civil war for centuries and divided into fiefdoms vying for power. They have lived here for a long time, originally migrating from the central continent a thousand years ago and bringing their mighty steeds with them.
+* Redannian humans are marked by their dark skin, common in the central continent.  
+* Redannians are cavalry masters, heavy horse without equal. They cover their horses in impenetrable scale mail and are masters of the lance and spear.
 
-## The Dwarf King, Kythus Kragbrow
+### Wilden Allies
+* In northern Redannian territories, Wilden, seemingly living intelligent humanoid plant people have appeared in battles with the scourge. Their enigmatic help is welcomed.
 
-Their home has been overrun by dark elves and worse, the ancient dwarven city of Underhome. They now defend their mountains from near-surface settlements, the largest and most well defending being Sunforge. Dwarves are bearing the brunt the eastern hordes, losing dwarven lives in what seems to be a defense of Galarian farmlands. But hold firm they still do.
+### Dragonborn allies
+* Huge influxes of dragonborn, mostly south of the Emerald Mountains, has caused big resource issues for the southern Redannian kingdoms, with Lords unwilling to part with their resources in anticipation of the coming wars. A few of the lords have seen an opportunity to use the dragonborn as shock troops / expendable forces and tolerate them as such, but the Dragonborn have in general received little succor here. Most stay here, longing to return home, others venture further inland in search of a new life.
 
-Kythus Kragbrow will send adventurers to ask the Galarians for aid in defending their eastern border. He will send parties east of the mountains to scout on greenskin forces. He will send adventurers into the mountains to discover more of Underhome. 
+### Wood Elves
+* A dark wood exists here, untouched by man, unsullied by civilization. It's a hundred miles wide, but to travel from end to end is impossible, for its winding ways stretch much further. 
+* Exiles from the Feywild, wood elves now call the terrestrial plane their home. 
+* They are led by a powerful queen who firmly believes in returning the world to a natural state and that people are best un-ruled and un-politicized. Her magic is incredibly potent, but convincing her to use it is tough. 
+* She is not friendly to non-elves. She is not really friendly in general, though does want what is best for the world (Which is generally not saving dwarves and men from their fate)
+* The elves are openly hostile (albeit defensively) to their neighbors and generally answer all calls for help with silence or flights of arrows. They have an ancient enmity with the dwarves.
+* Every elf is a kingdom undo hisself the saying goes. Elves are not bound to any king or queen and are free to wander and pursue their arts in any way they see fit. Elf on elf conflict is rare.
 
-Kythus Kragbrow is a devout servant of Moradin the King Below and his faith guides his actions. 
+# Central Continent
 
-## The Dark Crusader Sevestus
+## The Desert Princedoms
+* Dominated by desert sands, most civilization in this area clings to a central river for fresh water. 
+* All along this river are scores of walled city states, ruled by kings.  
+* Long ago, the story goes, a god fell from the sky in this area. That god was a great conqueror. He/she was known as **Shaddia**, a warrior god able to charm the hearts of women and men with a gaze and crumble city walls with a word. **Shaddia** fathered and gave birth to many children in the age of myth before eventually moving on to where ever.
+* Of that bloodline, many are rulers today, Devas, those with holy god blood running in their veins, but mortal like most things. Devas form a majority of the warrior kings who dominate the desert princedoms.
+* War is common here as cities are fought over and position towards the mouth of the river is vied for. (the water, when it finally reaches the ocean, is filthy)
 
-Sevestus arrived from across the sea with an army at his back just in time to save the beleagured defenders of Fort Duboien from certain defeat at the hands of an army of rampaging demons who appeared from no where. His army immediately marched east to portal and his forces closed it. Regarded as a hero by some, he set up shop here, erecting a fortification and camping in the County Duboien -- where he still camps today. His fortress, now famous for it's great bonelike spire, has only grown. The fortress sits at a potent ley line intersection.
+## The Desert
+* In the age of myth, the desert was a bountiful coastal land, crisscrossed by many rivers (now dry). As such, it is filled with hundreds or thousands of ruins, some more ancient than others. 
+* Great ziggurats now half or totally covered in sand, with whatever hidden treasure inside. No one knows much of these civilizations for the ruins are difficult to explore and extremely dangerous.
+* Stories of hidden oasis' where bandits form great pirate cities are common.
+* Nomadic tribes cross the desert in search of food.
 
-His followers are dark in aspect, cloaked figures covered in foreign markings and thick armor. In battle, they summon terrible magical attacks, capable of smashing aside armored columns and devouring horsemen whole. 
+## Dwarven Kingdoms (Shardminds)
 
-Sevestus' agents roam Galaria, looking for something arcane and secret. They occassionally threaten monastraries and the like and appear to be scouring much of the written works of Galaria... for something.
+* The central dwarven kingdom is the largest in the world, its capital city known as **Greatforge**, is a wonder of dwarven engineering. However, the dwarves long for another home, now lost to dark elves, where they came from originally. It's been 3,000 years since the last dwarf set foot in **Deephearth**, but the dwarven memory is long and every dwarf dreams still of reclaiming that great hall below.
 
-Despite Sevestus occupying a Galarian county, King Bederain has not acted against him, mainly on the advice of the Archmage Chronos.
+* In the year 380 the Shardminds awoke. They are a crystalline people of keen intellect, imbued with natural psionic power from the sundering of the Far Gate and the opening of the Astral Sea (see a astrologer). 
 
-Sevestus does the bidding of a number of dark gods and seeks information to summon them / and or free them from their prisons. He seeks to stave off destruction of this world by rampaging chaos, only so that he can deliver it to his masters.
-
-## The Liche
-Hundreds of years ago, Malgos the Dread King was defeated by an alliance of elves, dwarves and humans. Mortally wounded, he escaped, only to complete a ritual to extend his life as an undead liche. His both withered but his determiniaton to see the elves, dwarves and humans ground to dust did not. 
-
-He wants to restore his empire and claim the rightful throne of the Galarian kingdom as his own. He sometimes realizes that ruling and destroying are different.
-
-He raises an army of undead to do his bidding in the dark and forgotten places of the world.
-
-His apprentices scour ruins and sewers for corpses and artifacts. He maintains a network of portals that allow him to travel throughout the kingdom instantly.  His missions are things like spying on the archmage and undoing his plans and recovering secrets from his ancient homeland in the great south, now covered in ice.
+* 
 
 
 
