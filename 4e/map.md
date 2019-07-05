@@ -13,6 +13,14 @@ The year 380 was marked by the Red Night, a point where the Far Gate was sundere
 
 Since this time, psionic powers began to manifest.
 
+# Note on Politics (Especially in the human agrarian states)
+
+These areas are not nations per se, they are cultural groups that bleed into each other and overlap. The typical organization is of a lord and his house controlling a hundred to a thousand square miles. Many of these houses form their own alliances and ink their own treaties and trade deals. 
+
+Many of the jockeying and bickering neighbors will ally vs outside forces, but many the scheming lord has responded too slowly to an attack in order to allow his rival's lands to be pillaged a bit longer, or used the absense of his rival's armies to move in and consolidate power in the homeland.
+
+Those who have trade centers in their cities are fortunate to collect a lot of taxes, but find their bottom line constantly assailed by smugglers and their officials constantly overcome by bribes.
+
 # The East
 
 Play in the east if you want to wage an existential war campaign against an undeniably bad enemy.
@@ -22,7 +30,7 @@ Play in the east if you want to wage an existential war campaign against an unde
 * Former home of the Red Dragonborn and the last remnants of the Arkosian empire. The rise of the Scourge has pushed them west.   
   * City: Skyhall
 
-* The scourge is a merging of the Shadowfell, a dimensional rift emanating from the Crimson Court (political seat of power) in Skyhall. A wizard named **Daeth of  Xiilius**, after much research, seeking to locate the ancient arms of the Arkosian Emperors, opened a rift into the Plane of Shadows. In that moment, a powerful being slipped through. His shadow magic corrupted all around him. Implacable, he remains there and the rift widens. More native creatures come through, seemingly sustained by the rift and the being. It's unclear what it wants, but the lands are dangerous to all life and its influence is spreading. 
+* The scourge is a merging of the Shadowfell, a dimensional rift emanating from the Crimson Court (political seat of power) in Skyhall. A wizard named **Daeth of  Xiilius**, after much research, seeking to locate the ancient arms of the Arkosian Emperors, opened a rift into the Plane of Shadows. In that moment, a powerful being slipped through. That's when the trouble started. Implacable, he remains there and the rift widens. More native creatures come through, seemingly sustained by the rift and the being. It's unclear what it wants, but the lands are dangerous to all life and its influence is spreading. 
 
 * A monastery of high in the mountains, peopled by refuges from the astral sea, mainly Githzerai are under siege. They fight stalwartly, but their fate is inevitable. 
 
@@ -41,6 +49,7 @@ Play in the east if you want to wage an existential war campaign against an unde
 
 ### Wilden Allies
 * In northern Redannian territories, Wilden, seemingly living intelligent humanoid plant people have appeared in battles with the scourge. Their enigmatic help is welcomed.
+* It is speculated by some that these Wilden are like an immune system of the natural world, responding to the threat of the Scourge.
 
 ### Dragonborn allies
 * Huge influxes of dragonborn, mostly south of the Emerald Mountains, has caused big resource issues for the southern Redannian kingdoms, with Lords unwilling to part with their resources in anticipation of the coming wars. A few of the lords have seen an opportunity to use the dragonborn as shock troops / expendable forces and tolerate them as such, but the Dragonborn have in general received little succor here. Most stay here, longing to return home, others venture further inland in search of a new life.
@@ -72,9 +81,11 @@ Play in the east if you want to wage an existential war campaign against an unde
 
 * The central dwarven kingdom is the largest in the world, its capital city known as **Greatforge**, is a wonder of dwarven engineering. However, the dwarves long for another home, now lost to dark elves, where they came from originally. It's been 3,000 years since the last dwarf set foot in **Deephearth**, but the dwarven memory is long and every dwarf dreams still of reclaiming that great hall below.
 
-* Dwarves are ruled by one great king and one ruling clan, the Clan of Grudak, and King Krain IV. Krain of Grudak is a vain ruler, now eaten up by grief and hatred. He spends great amounts of time alone and his council of diplomats and councilors attend to the kingdom. He is without heir and the great 
+* Dwarves are ruled by one great king and one ruling clan, the Clan of Grudak, and King Krain IV. Krain of Grudak is a vain ruler, now eaten up by grief and hatred. He spends great amounts of time alone and his council of diplomats and councilors attend to the kingdom. He is without heir and there are rumblings of the Great Council being called again to elect a new king, an event hasn't been seen since Krain I.
 
-* In the year 380 the Shardminds awoke. They are a crystalline people of keen intellect, imbued with natural psionic power from the sundering of the Far Gate and the opening of the Astral Sea (see a astrologer). They are entirely alien beings with a close link to the astral sea. They emerged from dwarven gem holds
+* In the year 380 the Shardminds awoke. They are a crystalline people of keen intellect, imbued with natural psionic power from the sundering of the Far Gate and the opening of the Astral Sea (see a astrologer). They are entirely alien beings with a close link to the astral sea. They emerged from dwarven gem holds after the Red Night.
+
+
 
 
 
