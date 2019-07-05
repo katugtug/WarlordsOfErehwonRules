@@ -28,7 +28,7 @@ permalink: /4e/players-guide/
 * In the end, you get 1 mechanical bonus, detailed on page 178 of PHB2.
 
 # Skill Powers
-* When you gain a utility power, any class may instead gain a skill power for a trained skill. These are on PHP2 pg 164
+* When you gain a utility power, any class may instead gain a **skill power** for a trained skill. These are on PHP2 pg 164
 
 # Classes
 
