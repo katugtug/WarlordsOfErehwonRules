@@ -48,11 +48,9 @@ permalink: /4e/encounter-modifiers/
 
 12. **Creeping fire** A fire starts small at the beginning of the encounter, but grows quickly. Explosive barrels for extra fun.
 
+13. **Web Trab** A trap sets off a giant drop of spider web, while giant spider begin to descend from the ceiling for a meal.
+
 1. **The Sacrifice must be completed** - The enemies have captured a unwilling sacrifice and plan to cut its throat for a dark god. The players enter the chamber. Can they stop it before its too late? Either its enough that the hostage dies, but its possible that the sacrifice is accepted by some foul diety and it sends an ally to help the bad guys.
    
 2. **Melting Treasure** The party must fill their pockets quickly as the temple collapses around them. What do they take? Will they take too much to be able to escape ?
-
-
-
-
 
