@@ -54,3 +54,6 @@ permalink: /4e/encounter-modifiers/
    
 2. **Melting Treasure** The party must fill their pockets quickly as the temple collapses around them. What do they take? Will they take too much to be able to escape ?
 
+16. **Illumination** - One part or all parts of the encounter area either have dim light or darkness. Provide a method, with actions, to add illumination.
+
+17. **Chandelier / Scaffolding** - The fight takes places with a few pieces of heavy equipment dangling over the battlefield.
