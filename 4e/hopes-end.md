@@ -26,7 +26,7 @@ Bandits - p162
 Goblin group - p137
 Skeleton group p 234
 Green Dragon
-Dryad
+
 
 
 # About the Lands to the North
