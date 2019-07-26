@@ -58,4 +58,9 @@ permalink: /4e/encounter-modifiers/
 
 17. **Chandelier / Scaffolding** - The fight takes places with a few pieces of heavy equipment dangling over the battlefield.
 
-****
+18. **Patrol** - 2 guards patrol a set of rooms on a set pattern.
+    
+19. **Guards** - 2 guards hold a door, halt who goes there?  
+
+20. **Scouts** - a small group ranges out looking for danger and finds the group.
+

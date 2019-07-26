@@ -1,5 +1,5 @@
 ---
-title: Interesting Encounter Modifiers
+title: Making Circle Monsters
 permalink: /4e/circle/
 ---
 

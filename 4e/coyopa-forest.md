@@ -20,12 +20,12 @@ permalink: /4e/coyopa/
    The civilization of the emerald mountains dwarves was eventually wiped out by a plague that emerged from the Nine Hells, from Mammom, devil of greed. The dwarves ate each other, than they ate themselves. This could be related to the vampires, b
 
    1. The Outer wall
-      1. As the party approaches the outer wall of the keep, savage orcs attack. (if they see the party)
+      1. As the party approaches the outer wall of the keep, savage orcs begin to gather. (if they see the party)
       2. They are hungry and gaunt (-2 levels)
       3. The party can fight them, but its better to get the door working (simple athletics) to use the walls against the orcs. Harder to shove it closed. Easier to use gate controls above the gate with thievery.
       4. The party can also make use of the deep trench and rusting equipment (rough terrain).
       5. The party can close the trench as well.
-      6. If the players continually fight the orcs, more orcs will come, the 2nd wave will come with their leader. He'll have treasure
+      6. The number of orcs will grow and they'll attack if the PCs havent
    2. The Fallen Lodge
       1. A stone building dominates the center of the fort, but its a recreational building. Made of local stone, but with large windows and openings. The heavy stone pillars that hold it up haven't broken yet. The inside is surrounded by taxidermied animals now falling apart, hanging from the inside of the building. 
       2. Antique weapons are along the walls. A spot where a warhammer lay is bare.
